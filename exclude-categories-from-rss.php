@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Exclude Categories from RSS Feed
- * Plugin URI:  # https://github.com/dietrichmd/wordpress_plugins/
+ * Plugin URI:  # https://github.com/vestrainteractive/exclude-categories-from-rss
  * Description: Exclude specific categories from your WordPress RSS feed.
  * Version: 1.0
  * Author: Vestra Interactive
